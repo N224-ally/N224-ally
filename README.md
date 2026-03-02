@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi! My name is Niwe Mugeni<br>
-I graduated with a degree in Computer Sciencebr>
+I graduated with a degree in Computer Science<br>
 I'm working on falling in love with programmiung again after AI doomers killed my passion<br>
 Currently revisiting the fundamentals in C
 
