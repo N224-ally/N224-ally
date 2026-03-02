@@ -1,8 +1,8 @@
 # 💫 About Me:
 Hi! My name is Niwe Mugeni<br>
-I graduated a few months ago<br>
-Currently building my personnal website<br>
-Currently taking a deep dive into functional programming
+I graduated with a degree in Computer Sciencebr>
+I'm working on falling in love with programmiung again after AI doomers killed my passion<br>
+Currently revisiting the fundamentals in C
 
 
 ## 🌐 Socials:
